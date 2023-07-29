@@ -55,8 +55,8 @@ span.stop-blinking::before{
 .moon{
     position: absolute;
     top: 5%;
-    left: 5%;
-    width: 1%;
+    left: 10%;
+    width: 15%;
     opacity: 0.3;
     
 
