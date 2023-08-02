@@ -1,4 +1,4 @@
-const words = ['Simeon', 'a Designer', 'a Developer', 'the Future', 'the Man']
+const words = ['Simeon', 'an Engineer', 'a Designer', 'a Developer', 'the Future', 'the Man']
 
 let wordIndex = 0
 let charIndex = 0
